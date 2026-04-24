@@ -1,5 +1,4 @@
 .venv/
 .env
-processed_knowledge_base.json
 __pycache__/
 *.pyc
